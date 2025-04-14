@@ -31,6 +31,7 @@ public class HttpListener(int port)
 			var bytesRead = stream.Read(requestBytes, 0, requestBytes.Length);
 			if (bytesRead == 0) return;
 			var request = RequestHandler.Handle(Encoding.UTF8.GetString(requestBytes, 0, bytesRead));
+			Console.WriteLine(request);
 			var response = ResponseHandler.Result(request);
 			ResponseHandler.Post(stream, response);
 		}

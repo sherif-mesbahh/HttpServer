@@ -8,14 +8,17 @@ public class ResponseHandler
 	public static Response Result(Request? request)
 	{
 		if (request == null)
-			return HandleNullRequest();
+			return HandleNotFoundRequest();
 
-		if (request.Path == "/")
-			return HandleOkRequest();
-		if (request.Path == "/home")
-			return HandleHomePathRequest();
+		if (request.Method == "GET")
+		{
+			if (request.Path == "/")
+				return HandleOkRequest();
 
-		return HandleNullRequest();
+			if (request.Path == "/home")
+				return HandleHomePathRequest();
+		}
+		return HandleNotFoundRequest();
 	}
 
 	private static Response HandleHomePathRequest()
@@ -26,7 +29,7 @@ public class ResponseHandler
 		return response;
 	}
 
-	private static Response HandleNullRequest()
+	private static Response HandleNotFoundRequest()
 	{
 		//byte[] data = Encoding.UTF8.GetBytes(res);
 		var response = ResponseFactory.Create("404 Not Found", "text/html", []);
