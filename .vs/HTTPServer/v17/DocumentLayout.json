@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\HttpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httpserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httpserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httplistener\\httplistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httplistener\\httplistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httprequest\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httprequest\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httprequest\\requestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httprequest\\requestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httpresponse\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httpresponse\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httpresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httpresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httprequest\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httprequest\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\httpresponse\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:httpresponse\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|c:\\users\\user\\httpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2C1851-60D0-4B55-B657-E11FEC867B52}|HTTPServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPResponse\\ResponseFactory.cs",
+              "RelativeDocumentMoniker": "HTTPResponse\\ResponseFactory.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPResponse\\ResponseFactory.cs",
+              "RelativeToolTip": "HTTPResponse\\ResponseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:43:21.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPResponse\\Response.cs",
+              "RelativeDocumentMoniker": "HTTPResponse\\Response.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPResponse\\Response.cs",
+              "RelativeToolTip": "HTTPResponse\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:38:32.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPResponse\\ResponseHandler.cs",
+              "RelativeDocumentMoniker": "HTTPResponse\\ResponseHandler.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPResponse\\ResponseHandler.cs",
+              "RelativeToolTip": "HTTPResponse\\ResponseHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:56:19.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpListener.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPListener\\HttpListener.cs",
+              "RelativeDocumentMoniker": "HTTPListener\\HttpListener.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPListener\\HttpListener.cs",
+              "RelativeToolTip": "HTTPListener\\HttpListener.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:13:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPRequest\\Request.cs",
+              "RelativeDocumentMoniker": "HTTPRequest\\Request.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPRequest\\Request.cs",
+              "RelativeToolTip": "HTTPRequest\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:20:38.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPRequest\\RequestHandler.cs",
+              "RelativeDocumentMoniker": "HTTPRequest\\RequestHandler.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPRequest\\RequestHandler.cs",
+              "RelativeToolTip": "HTTPRequest\\RequestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:19:02.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HTTPServer.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPServer.csproj",
+              "RelativeDocumentMoniker": "HTTPServer.csproj",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPServer.csproj",
+              "RelativeToolTip": "HTTPServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T18:55:04.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\HTTPRequest\\RequestFactory.cs",
+              "RelativeDocumentMoniker": "HTTPRequest\\RequestFactory.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\HTTPRequest\\RequestFactory.cs",
+              "RelativeToolTip": "HTTPRequest\\RequestFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:17:06.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\HttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\HttpServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:51:13.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

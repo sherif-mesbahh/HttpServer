@@ -1,14 +1,13 @@
-﻿using System.Net.Sockets;
-using System.Text;
-
-namespace HTTPServer.HTTPRequest;
+﻿namespace HTTPServer.HTTPRequest;
 public class RequestHandler
 {
-	public static void Handle(NetworkStream stream)
+	public static Request Handle(string msg)
 	{
-		var requestBytes = new byte[4096];
-		var bytesRead = stream.Read(requestBytes, 0, requestBytes.Length);
-		var request = Encoding.UTF8.GetString(requestBytes, 0, bytesRead);
-		Console.WriteLine(request);
+		var tokens = msg.Split(' ');
+		var method = tokens[0];
+		var path = tokens[1];
+		var host = tokens[3].Substring(0, tokens[3].IndexOf('\r'));
+		var request = RequestFactory.Create(method, path, host);
+		return request;
 	}
 }

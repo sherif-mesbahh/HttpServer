@@ -1,4 +1,4 @@
-﻿using HTTPServer.HTTPListener;
+﻿using HttpListener = HTTPServer.HTTPListener.HttpListener;
 
-var httpListener = new HttpListener();
-httpListener.Start();
+var server = new HttpListener(8080);
+server.Start();
