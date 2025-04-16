@@ -42,20 +42,20 @@ public class ResponseHandler
 		var response = ResponseFactory.Create("200 Ok", "text/html", data);
 		return response;
 	}
-	public static void Post(NetworkStream stream, Response response)
+	public static async Task Post(NetworkStream stream, Response response)
 	{
-		using (StreamWriter writer = new StreamWriter(stream, leaveOpen: true))
+		await using (StreamWriter writer = new StreamWriter(stream, leaveOpen: true))
 		{
-			writer.Write(
+			await writer.WriteAsync(
 				$"HTTP/1.1 {response.Status}\r\n" +
 				$"Server: Sherif Mesbah\r\n" +
 				$"Content-Type: {response.Mime}\r\n" +
 				$"Accept-Ranges: bytes\r\n" +
 				$"Content-Length: {response.Data.Length}\r\n" +
 				"\r\n");
-			writer.Flush();
+			await writer.FlushAsync();
 		}
 
-		stream.Write(response.Data, 0, response.Data.Length);
+		await stream.WriteAsync(response.Data, 0, response.Data.Length);
 	}
 }
